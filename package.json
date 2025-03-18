@@ -1,0 +1,33 @@
+{
+  "name": "sveltekit-data-plugin",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jonny Thaw",
+    "url": "https://jthaw.me"
+  },
+  "devDependencies": {
+    "standard-version": "^9.5.0",
+    "vite": "^6.2.2"
+  },
+  "peerDependencies": {
+    "@sveltejs/enhanced-img": "^0.4.4"
+  },
+  "files": [
+    "dist"
+  ],
+  "main": "./dist/plugin.js",
+  "module": "./dist/plugin.mjs",
+  "exports": {
+    ".": {
+      "import": "./dist/plugin.mjs",
+      "require": "./dist/plugin.js"
+    }
+  },
+  "scripts": {
+    "build": "vite build",
+    "release": "npm run build && standard-version && npm publish"
+  },
+  "dependencies": {
+    "front-matter": "^4.0.2"
+  }
+}
