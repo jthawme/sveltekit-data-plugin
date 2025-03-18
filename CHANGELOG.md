@@ -7,4 +7,11 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Features
 
+* initial commit 9e79bdc
+
+## 1.0.0 (2025-03-18)
+
+
+### Features
+
 * initial commit 74bf702
