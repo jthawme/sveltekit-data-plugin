@@ -46,8 +46,8 @@ Then you can import a markdown file in a `page.js`, or whatever, like
 export async function load() {
 	const data = await import('$data/home.md');
 
-	return data;
+	return {...data};
 }
 ```
 
-And you will get a front-matter parsed markdown file
+And you will get a front-matter parsed markdown file. The `await` and subsequent spread are necessary, to satisfy sveltekit because the import pulls in the data as getters and throws an error
