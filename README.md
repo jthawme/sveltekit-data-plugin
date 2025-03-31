@@ -44,9 +44,9 @@ Then you can import a markdown file in a `page.js`, or whatever, like
 ```page.js
 /** @type {import('./$types').PageLoad} */
 export async function load() {
-	const d = await import('$data/home.md').then((mod) => mod.default);
+	const data = await import('$data/home.md');
 
-	return d;
+	return data;
 }
 ```
 
