@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.3](https://github.com/jthawme/sveltekit-data-plugin/compare/v1.3.2...v1.3.3) (2025-08-05)
+
+
+### Bug Fixes
+
+* markdownfile relative path ([9acfe1f](https://github.com/jthawme/sveltekit-data-plugin/commit/9acfe1f14e1e8604bba5ff82c83828c9d7562edc))
+
 ### [1.3.2](https://github.com/jthawme/sveltekit-data-plugin/compare/v1.3.1...v1.3.2) (2025-08-05)
 
 
