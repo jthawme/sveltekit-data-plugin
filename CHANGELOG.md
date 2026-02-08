@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/jthawme/sveltekit-data-plugin/compare/v1.3.4...v1.4.0) (2026-02-08)
+
+
+### Features
+
+* better guarded against conflicting keys by moving internals into object ([817bdaf](https://github.com/jthawme/sveltekit-data-plugin/commit/817bdaf513e601478f01ec3ed5843d6543d887d7))
+
+
+### Bug Fixes
+
+* added absolute path to data output ([3049a78](https://github.com/jthawme/sveltekit-data-plugin/commit/3049a7839eb6a3395719d3a76d3bf5b60b8de27f))
+
 ### [1.3.4](https://github.com/jthawme/sveltekit-data-plugin/compare/v1.3.3...v1.3.4) (2025-08-05)
 
 
