@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.4.2](https://github.com/jthawme/sveltekit-data-plugin/compare/v1.4.1...v1.4.2) (2026-02-19)
+
+
+### Bug Fixes
+
+* sets relative folder from first convert now ([651f7d0](https://github.com/jthawme/sveltekit-data-plugin/commit/651f7d0bfc7529cd730a044bd50d1a59a75a58ed))
+
 ### [1.4.1](https://github.com/jthawme/sveltekit-data-plugin/compare/v1.4.0...v1.4.1) (2026-02-08)
 
 ## [1.4.0](https://github.com/jthawme/sveltekit-data-plugin/compare/v1.3.4...v1.4.0) (2026-02-08)
