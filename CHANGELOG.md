@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.4.4](https://github.com/jthawme/sveltekit-data-plugin/compare/v1.4.3...v1.4.4) (2026-02-20)
+
+
+### Bug Fixes
+
+* made top level files have _internal object not just children ([d7d66f2](https://github.com/jthawme/sveltekit-data-plugin/commit/d7d66f271d45abeea1f7bddf298f2eaac22098c9))
+
 ### [1.4.3](https://github.com/jthawme/sveltekit-data-plugin/compare/v1.4.2...v1.4.3) (2026-02-19)
 
 ### [1.4.2](https://github.com/jthawme/sveltekit-data-plugin/compare/v1.4.1...v1.4.2) (2026-02-19)
