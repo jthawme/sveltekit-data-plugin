@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/jthawme/sveltekit-data-plugin/compare/v1.4.5...v1.5.0) (2026-02-21)
+
+
+### Features
+
+* brings properties to top level for related files ([12f767b](https://github.com/jthawme/sveltekit-data-plugin/commit/12f767b0ee61a1c066122a7362a5592ba2eb499c))
+
 ### [1.4.5](https://github.com/jthawme/sveltekit-data-plugin/compare/v1.4.4...v1.4.5) (2026-02-20)
 
 ### [1.4.4](https://github.com/jthawme/sveltekit-data-plugin/compare/v1.4.3...v1.4.4) (2026-02-20)
