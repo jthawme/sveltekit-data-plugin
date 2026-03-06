@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.5.2](https://github.com/jthawme/sveltekit-data-plugin/compare/v1.5.1...v1.5.2) (2026-03-06)
+
+
+### Bug Fixes
+
+* case insensitive regex ([d74d1ca](https://github.com/jthawme/sveltekit-data-plugin/commit/d74d1ca5709ce602551027c1d5b8a7a10ec26b9d))
+
 ### [1.5.1](https://github.com/jthawme/sveltekit-data-plugin/compare/v1.5.0...v1.5.1) (2026-02-21)
 
 
